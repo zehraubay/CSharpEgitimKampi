@@ -2,7 +2,7 @@
 
 Bu repoda, Visual Studio 2022 kullanarak geliştirdiğim temel C# uygulamaları yer almaktadır. Her proje, programlamanın temel yapı taşlarını kapsayan konular üzerine inşa edilmiştir. Kodlama pratiği yaparak öğrenmeyi amaçlayan bu içerikler sayesinde C# diline güçlü bir başlangıç yaptım.
 
-##🔹 Proje 1 – Giriş ve Yazdırma İşlemleri
+**🔹 Proje 1 – Giriş ve Yazdırma İşlemleri**
 
 Visual Studio 2022 ortamında temel C# komutlarını öğrendim. Console.Write ve Console.WriteLine kullanarak ekrana metin yazdırma işlemlerini uyguladım. Ayrıca string ve int veri tiplerini tanımlayarak değişken oluşturma pratiği yaptım. Restoran menüsü ve müşteri kartı gibi örneklerle pratik çalışmalar gerçekleştirdim.
 
