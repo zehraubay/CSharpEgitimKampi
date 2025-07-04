@@ -251,7 +251,6 @@ namespace _03_MakingDecision
 
             #endregion
 
-
             #region Switch Case
 
             //Console.Write("Lütfen ay girişi yapınız: ");
